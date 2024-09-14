@@ -20,7 +20,7 @@ CSViewer is a powerful and user-friendly web application for viewing, analyzing,
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/csviewer.git
+   git clone https://github.com/Tobey-ESC/csviewer.git
    cd csviewer
    ```
 
